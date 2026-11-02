@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://NontsiVala-coder.github.io/WEDE5020_Part2/sitemap.xml
